@@ -1,9 +1,8 @@
 #include <gtest/gtest.h>
-#include "MyVector.cpp"
+#include <string>
+#include "MyVector.h"
 using namespace std;
-class VectorFixture : public :: testing::Test{
-
-
+class VectorFixture : public :: testing::Test {
 
 };
 
